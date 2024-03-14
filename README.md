@@ -1,4 +1,4 @@
-# 蓝帆云好用吗？Clash节点推荐
+# 疾风云好用吗？Clash节点推荐
 
 ## 疾风云官网地址
 最新官网地址：[蓝帆云官网](https://ct.affxc.com/jfcloud/)
